@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <paths>
+        <files-path path="../apks" name="apks"/>
+        <files-path path="/plugs" name="plugs"/>
+        <files-path path="/" name="logs"/>
+    </paths>
+</resource>
